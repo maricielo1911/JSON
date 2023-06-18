@@ -1,0 +1,41 @@
+<supermercado>
+  <nombre>Mercadona</nombre>
+  <direccion>Avenida Suecia 123</direccion>
+  <geolocalizacion>
+    <latitud>42.2459</latitud>
+    <longitud> -4.67789</longitud>
+  </geolocalizacion>
+  <productos>
+  <bebidas>
+   <producto>Agua</producto>
+   <precio>1.50</precio>
+    <producto>Jugo de Naranja</producto>
+   <precio>1.23</precio>
+    <producto>Jugo de Pera</producto>
+   <precio>1.50</precio>
+  </bebidas>
+  <alimentacion>
+  <producto>Manzana</producto>
+   <precio>0.80</precio>
+  <producto>Lechuga</producto>
+   <precio>1.40</precio>
+   <producto>Uva</producto>
+   <precio>3.50</precio>
+  </alimentacion>
+  </productos>
+
+    <nombre>Carrefour</nombre>
+  <direccion>Avenida Suecia 123</direccion>
+  <geolocalizacion>
+    <latitud>36.88453</latitud>
+    <longitud>-1.23445</longitud>
+  </geolocalizacion>
+  <productos>
+  <bebidas>
+   <producto>Cerveza</producto>
+   <precio>4.30</precio>
+    <producto>Yogurt</producto>
+   <precio>1.50</precio>
+  </bebidas>
+  </productos>
+  </supermercado>

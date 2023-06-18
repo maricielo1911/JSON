@@ -1,0 +1,133 @@
+{
+    "supermercados": [
+      {
+        "nombre": "Mercadona",
+        "direccion": "Avenida Suecia 123",
+        "geolocalizacion": {
+          "latitud": 42.2459,
+          "longitud": -4.67789
+        },
+        "productos": [
+            
+            
+        { "bebidas" : [{
+
+            "nombre": "Agua",
+            "enoferta": false,
+            "cestahabitual": true,
+            "unidades": 6,
+            "unidad_medida": "litro",
+            "precio": 1.50,
+            "caducidad":false,
+            "compradoanterior":false
+            }, {
+                "nombre": "Jugo de Naranja",
+                "enoferta": false,
+                "cestahabitual": false,
+                "unidades": 4,
+                "unidad_medida": "litro",
+                "precio": 1.23,
+                "caducidad":false,
+                "adquirido": false,
+                "compradoanterior":false
+
+
+            },{
+                "nombre": "Jugo de Pera",
+                "enoferta": false,
+                "cestahabitual": false,
+                "unidades": 4,
+                "unidad_medida": "litro",
+                "precio": 1.50,
+                "caducidad":false,
+                "compradoanterior":false
+
+
+            }
+   
+        ],
+        "alimentacion" : [{
+
+            "nombre": "Manzana",
+            "enoferta": false,
+            "cestahabitual": true,
+            "unidades": 1,
+            "unidad_medida": "gramos",
+            "precio": 0.80,
+            "caducidad":true,
+            "compradoanterior":false
+            }, {
+                "nombre": "Lechuga",
+                "enoferta":true,
+                "cestahabitual": false,
+                "unidades": 2,
+                "unidad_medida": "gramos",
+                "precio": 1.40,
+                "caducidad":true,
+                "compradoanterior":false
+
+
+            },{
+                "nombre": "Uva",
+                "enoferta": false,
+                "cestahabitual": false,
+                "unidades": 6,
+                "unidad_medida": "kilo",
+                "precio": 3.50,
+                "caducidad":false,
+                "adquirido": false,
+                "compradoanterior":false
+
+
+            }
+   
+        ]
+            
+
+        }
+          
+        ]
+      },
+      {
+        "nombre": "Carrefour",
+        "direccion": "Avenida Tributacion 889",
+        "geolocalizacion": {
+          "latitud":  36.88453,
+          "longitud": -1.23445
+        },
+        "productos": [
+          { 
+            "bebidas":[{
+            
+            "nombre": "Cerveza",
+            "enoferta": true,
+            "cestahabitual": true,
+            "unidades": 6,
+            "unidad_medida": "unidad",
+            "precio": 4.30,
+            "caducidad":false,
+            "adquirido": false,
+            "compradoanterior":true}, 
+            
+            {
+                "nombre": "Yogurt",
+                "enoferta": true,
+                "cestahabitual": true,
+                "unidades": 5,
+                "unidad_medida": "litro",
+                "precio": 1.50,
+                "caducidad":true,
+                "adquirido": false,
+                "compradoanterior":true
+              }
+
+        
+        ]
+
+      }
+     ]
+     
+    }
+    ]
+}
+
